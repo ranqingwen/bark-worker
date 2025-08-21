@@ -7,7 +7,7 @@ export default {
 // 是否允许新建设备
 const isAllowNewDevice = true
 // 是否允许查询设备数量
-const isAllowQueryNums = true
+const isAllowQueryNums = ture
 // 根路径
 const rootPath = '/'
 // BasicAuth username:password
